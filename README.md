@@ -11,7 +11,9 @@
 - 내용: 개별 PNG 656장(1254×1254) + 사용자 승인 원본 JPG 4장(512×512, `originals/`)
 - 인물 정보: `portraits-index.json` — 인물 번호·한자명·한국어명 (한국어명 미확정 204명은 `name_ko_unconfirmed`에 표기)
 - 인물 번호는 삼국지11 팬 정리 인물 목록 기준입니다. 역사 인물의 이름·한자명은 사실 자료입니다.
-- 다운로드: [Releases v1.0](../../releases) 의 분할 zip 4개를 모두 받아 같은 폴더에 압축 해제
+- 다운로드: [Releases v1.0](../../releases) 의 분할 zip 조각 4개(`samgukji-portraits-660.zip.part1~4`)를 모두 같은 폴더에 받은 뒤 합쳐서 압축 해제하세요.
+  - 재결합: `cat samgukji-portraits-660.zip.part* > samgukji-portraits-660.zip` (Windows: `copy /b samgukji-portraits-660.zip.part1+samgukji-portraits-660.zip.part2+samgukji-portraits-660.zip.part3+samgukji-portraits-660.zip.part4 samgukji-portraits-660.zip`)
+  - 전체 zip 약 2.1GB (PNG 656 + JPG 4 + portraits-index.json + LICENSE.txt)
 - 라이선스: 자체 AI 생성 · 조건 없이 사용 가능 (저작자 표시 불요, 상업적 이용·수정·재배포 허용) — `LICENSE.txt`
 - AI 생성물 특성상 동일하거나 유사한 이미지가 다른 곳에 존재할 수 있으며 독점적 권리를 보장하지 않습니다.
 
