@@ -24,3 +24,8 @@
 - 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-portraits/releases/download//public-domain-portraits.zip) (6.7MB, png 82개 · txt 1개 · jpg 1개)
 - 제작: remaxim / 라이선스: CC0 / 원본: https://opengameart.org/content/public-domain-portraits
 
+### RPG portraits
+![RPG portraits 미리보기](previews/rpg-portraits.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-portraits/releases/download//rpg-portraits.zip) (49KB, png 3개)
+- 제작: Mumu / 라이선스: CC0 / 원본: https://opengameart.org/content/rpg-portraits
+
