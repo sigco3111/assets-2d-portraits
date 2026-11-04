@@ -18,3 +18,9 @@
 - AI 생성물 특성상 동일하거나 유사한 이미지가 다른 곳에 존재할 수 있으며 독점적 권리를 보장하지 않습니다.
 
 ![미리보기](previews/samgukji-portraits-660.png)
+
+### public domain portraits
+![public domain portraits 미리보기](previews/public-domain-portraits.png)
+- 파일: [릴리스  첨부 다운로드](https://github.com/sigco3111/assets-2d-portraits/releases/download//public-domain-portraits.zip) (6.7MB, png 82개 · txt 1개 · jpg 1개)
+- 제작: remaxim / 라이선스: CC0 / 원본: https://opengameart.org/content/public-domain-portraits
+
