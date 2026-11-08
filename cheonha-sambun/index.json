@@ -1,7 +1,7 @@
 {
  "pack": "천하삼분 게임 에셋 56",
  "source_game": "https://github.com/sigco3111/cheonha-sambun",
- "note": "모든 이미지는 AI 생성 자체 작업물. 정원지·등무는 게임 창작 인물로 한자명 없음.",
+ "note": "모든 이미지는 AI 생성 자체 작업물. 한자명 미확인 인물(정원지, 등무)은 name_zh를 비워 둠(미정).",
  "generals": [
   {
    "file": "units/char_liu_bei_0_0.png",
@@ -176,14 +176,14 @@
    "id": "cheng",
    "name_ko": "정원지",
    "name_zh": null,
-   "faction": "황건(창작 인물)"
+   "faction": "황건"
   },
   {
    "file": "units/char_deng_0_0.png",
    "id": "deng",
    "name_ko": "등무",
    "name_zh": null,
-   "faction": "황건(창작 인물)"
+   "faction": "황건"
   }
  ],
  "classes": [

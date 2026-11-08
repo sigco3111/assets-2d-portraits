@@ -25,7 +25,7 @@
 오리지널 웹 게임 「천하삼분」(삼국지 영걸전풍 다회차 전술 RPG)을 위해 AI로 생성한 2D 에셋입니다.
 
 - 내용: `cheonha-sambun/` — 장수 스프라이트 26 + 병종 스프라이트 8 (`units/`, 96×96), 지형 타일 14 (`terrain/`, 96×96), 전투 이펙트 스트립 8 (`fx/`)
-- 인물 정보: `cheonha-sambun/index.json` — 장수별 한국어명·한자명·세력 (정원지·등무는 게임 창작 인물로 한자명 없음)
+- 인물 정보: `cheonha-sambun/index.json` — 장수별 한국어명·한자명·세력 (한자명 미확인 인물은 미정으로 비워 둠)
 - 파일: 저장소 `cheonha-sambun/` 폴더에서 개별 다운로드 (원본 게임: https://github.com/sigco3111/cheonha-sambun)
 - 출처·라이선스: 자체 제작(소유자 보유), Instinct(소유자의 AI 어시스턴트)가 AI로 생성, 소유자 결정으로 유지 · 조건 없이 사용 가능 — `cheonha-sambun/LICENSE.txt`
 
